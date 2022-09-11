@@ -23,7 +23,7 @@ A user can choose a category to test himself or herself. The application does no
 **What I learnt while making this application above:** I learnt many things while making this application such as connecting to API, producing categories, forms and 
 forms groups. I also learnt how to make the cards filip.   
 
-**How might I improve:** Limit the number of questions that user type in. For example, user type in between 1 and 50. Redeploy this React web application again for my 
+**How might I improve:** Limit the number of questions that user type in. For example, user type in between 1 and 50. Redeploy this React web application again from my 
 Visual Studios Code software so that code can be seen by public.     
 
 <!--# React-App-Quiz
