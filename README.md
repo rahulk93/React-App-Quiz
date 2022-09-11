@@ -24,7 +24,7 @@ A user can choose a category to test himself or herself. The application does no
 forms groups. I also learnt how to make the cards filip.   
 
 **How might I improve:** Limit the number of questions that user type in. For example, user type in between 1 and 50. Redeploy this React web application again from my 
-Visual Studios Code software so that code can be seen by public.     
+Visual Studios Code software so that all of my code can be seen by public.     
 
 <!--# React-App-Quiz
 This repository is making Quiz ReactJS web application by using Visual Studios Code.  Website: https://rahulk93.github.io/React-App-Quiz-->
